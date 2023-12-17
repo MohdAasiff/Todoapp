@@ -13,8 +13,7 @@ This is a simple Todo List application built using React. It allows users to add
 - Mark tasks as completed: Users can check the checkbox next to a task to mark it as completed.
 - Complete all tasks: Users can click the "Complete all tasks" link to mark all tasks as completed.
 - Delete completed tasks: Users can click the "Delete Comp tasks" link to delete all completed tasks.
-- Filter tasks: Users can use the dropdown menu to filter tasks based on their completion status.
-- Task count: The total number of tasks and the number of completed tasks are displayed.
+
 
 ## Installation
 
